@@ -1,0 +1,13 @@
+nouns
+person , bike, docking station, bike
+
+verbs
+release, use, docking, working, see
+
+
+objects            messages
+Person             see_bike_working 
+Bike               use_bike
+Docking Station    release_bike  
+
+
